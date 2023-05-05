@@ -1,0 +1,1 @@
+open "mainGame.py" to play my game
